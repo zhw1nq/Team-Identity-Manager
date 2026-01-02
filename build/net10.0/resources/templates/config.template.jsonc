@@ -1,0 +1,11 @@
+{
+    "TeamIdentityManager": {
+        "DebugMode": false,
+        "RandomTeamLogos": true,
+        "RandomTeamNames": true,
+        "CtTeamLogo": "",
+        "CtTeamName": "",
+        "TTeamLogo": "",
+        "TTeamName": ""
+    }
+}
