@@ -1,4 +1,5 @@
 <div align="center">
+  <img src="https://pan.samyyc.dev/s/VYmMXE"/>
   <h1>SwiftlyS2 Team Identity Manager</h1>
   <p>Randomly assigns esports team logos and names on map load</p>
 </div>
@@ -14,7 +15,7 @@
 ## Showcase
 
 <div align="center">
-  <img src="Showcase.png" alt="Showcase"/>
+  <img src="showcase.png" alt="Showcase"/>
   <p><i>Logo Team và Team Name được đặt ở sau điểm số của Site, mọi thứ khác đều không liên quan.</i></p>
 </div>
 
