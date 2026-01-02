@@ -26,7 +26,7 @@
 | Platform | Status    |
 | -------- | --------- |
 | Windows  | Ready     |
-| Linux    | Not Ready |
+| Linux    | Need testers  |
 
 ## Requirements
 
