@@ -16,7 +16,7 @@
 
 <div align="center">
   <img src="showcase.png" alt="Showcase"/>
-  <p><i>Logo Team và Team Name được đặt ở sau điểm số của Site, mọi thứ khác đều không liên quan.</i></p>
+  <p><i>Randomly assigns esports team logos and names on map load.</i></p>
 </div>
 
 ---
@@ -26,7 +26,7 @@
 | Platform | Status    |
 | -------- | --------- |
 | Windows  | Ready     |
-| Linux    | Need testers  |
+| Linux    | Ready     |
 
 ## Requirements
 
